@@ -1,0 +1,14 @@
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\bin\Debug\net6.0\SocialImpactApp.Data.deps.json
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\bin\Debug\net6.0\SocialImpactApp.Data.runtimeconfig.json
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\bin\Debug\net6.0\SocialImpactApp.Data.dll
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\bin\Debug\net6.0\SocialImpactApp.Data.pdb
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\obj\Debug\net6.0\SocialImpactApp.Data.csproj.AssemblyReference.cache
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\obj\Debug\net6.0\SocialImpactApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\obj\Debug\net6.0\SocialImpactApp.Data.AssemblyInfoInputs.cache
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\obj\Debug\net6.0\SocialImpactApp.Data.AssemblyInfo.cs
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\obj\Debug\net6.0\SocialImpactApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\obj\Debug\net6.0\SocialImpactApp.Data.dll
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\obj\Debug\net6.0\refint\SocialImpactApp.Data.dll
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\obj\Debug\net6.0\SocialImpactApp.Data.pdb
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\obj\Debug\net6.0\SocialImpactApp.Data.genruntimeconfig.cache
+C:\Users\rbeleno\OneDrive - KPMG\Desktop\labs\SocialImpactApp\SocialImpactApp.Data\obj\Debug\net6.0\ref\SocialImpactApp.Data.dll
